@@ -1,0 +1,33 @@
+
+.ReactTable .-pagination button {
+  margin: 0;
+}
+
+
+.gsap-example-app {
+  padding: 10px;
+}
+
+.gsap-example-box {
+  margin: 10px 0;
+  background: beige;
+  width: 200px;
+  padding: 2em;
+}
+
+
+@media all and (max-width: 1000px) {
+  .idyll-root {
+    max-width: none;
+    padding: 0;
+  }
+}
+
+
+@media all and (max-width: 800px) {
+  .idyll-root {
+    max-width: none;
+    padding: 0;
+  }
+
+}
