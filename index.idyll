@@ -8,7 +8,7 @@
 // [Nav fullWidth:true /]
 
 [Header
-  title:"A Fantastic Title"
+  title:"Second example article"
   date:"October 11, 2021"
   subtitle:"TK TK A punchy description of why we should read your article."
   fullWidth:true
